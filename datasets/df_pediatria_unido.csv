@@ -1,0 +1,663 @@
+jurisdiccion_de_residencia_id,provincia_nombre,cie10_causa_id,causa_defuncion,sexo_id,Sexo,grupo_edad,cantidad,codigo,rango_edad,Especialidad,especialidad_disponible,Tasa de Mortalidad Pediatría,num_establecimientos
+14,CÓRDOBA,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04698249946897175,8186
+82,SANTA FE,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+82,SANTA FE,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.014448095572869838,2548
+10,CATAMARCA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.0025390385312117824,566
+66,SALTA,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+26,CHUBUT,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.006540244303279514,956
+14,CÓRDOBA,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04698249946897175,8186
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+70,SAN JUAN,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019149255507998696,880
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+22,CHACO,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.08425929523291503,976
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+26,CHUBUT,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.006540244303279514,956
+82,SANTA FE,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+6,BUENOS AIRES,I42,Cardiomiopatía,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+10,CATAMARCA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.0025390385312117824,566
+18,CORRIENTES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+54,MISIONES,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+54,MISIONES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+62,RÍO NEGRO,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014361975991111834,605
+86,SANTIAGO DEL ESTERO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018589107402698934,865
+6,BUENOS AIRES,I42,Cardiomiopatía,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+26,CHUBUT,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.006540244303279514,956
+6,BUENOS AIRES,I42,Cardiomiopatía,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+90,TUCUMÁN,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+50,MENDOZA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015431613080728657,2262
+82,SANTA FE,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.014448095572869838,2548
+22,CHACO,I61,Hemorragia intraencefálica,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.08425929523291503,976
+10,CATAMARCA,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.0025390385312117824,566
+50,MENDOZA,I42,Cardiomiopatía,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015431613080728657,2262
+18,CORRIENTES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+34,FORMOSA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+62,RÍO NEGRO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014361975991111834,605
+86,SANTIAGO DEL ESTERO,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018589107402698934,865
+22,CHACO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PEDIATRÍA,1,0.08425929523291503,976
+14,CÓRDOBA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04698249946897175,8186
+82,SANTA FE,I42,Cardiomiopatía,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.014448095572869838,2548
+14,CÓRDOBA,R57,"Choque, no clasificado en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04698249946897175,8186
+34,FORMOSA,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+86,SANTIAGO DEL ESTERO,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.018589107402698934,865
+34,FORMOSA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.031487982086836855,473
+66,SALTA,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.022394681014429284,1120
+34,FORMOSA,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+22,CHACO,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.08425929523291503,976
+22,CHACO,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+22,CHACO,I61,Hemorragia intraencefálica,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.08425929523291503,976
+66,SALTA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PEDIATRÍA,1,0.022394681014429284,1120
+6,BUENOS AIRES,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.015900846878413904,9773
+82,SANTA FE,I42,Cardiomiopatía,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.014448095572869838,2548
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+78,SANTA CRUZ,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.010935182407254232,351
+86,SANTIAGO DEL ESTERO,I61,Hemorragia intraencefálica,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.018589107402698934,865
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+90,TUCUMÁN,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+42,LA PAMPA,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.014911851264131089,703
+66,SALTA,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.022394681014429284,1120
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+90,TUCUMÁN,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+14,CÓRDOBA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04698249946897175,8186
+86,SANTIAGO DEL ESTERO,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018589107402698934,865
+82,SANTA FE,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+62,RÍO NEGRO,R98,Muerte sin asistencia,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014361975991111834,605
+30,ENTRE RÍOS,R98,Muerte sin asistencia,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018204723033343768,1158
+30,ENTRE RÍOS,R98,Muerte sin asistencia,1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018204723033343768,1158
+94,"TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.014185822452610488,446
+14,CÓRDOBA,R57,"Choque, no clasificado en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04698249946897175,8186
+34,FORMOSA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,8,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.031487982086836855,473
+66,SALTA,I49,Otras arritmias cardiacas,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.022394681014429284,1120
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,10,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+86,SANTIAGO DEL ESTERO,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018589107402698934,865
+22,CHACO,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.08425929523291503,976
+54,MISIONES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+6,BUENOS AIRES,C92,Leucemia mieloide,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+66,SALTA,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.022394681014429284,1120
+82,SANTA FE,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.014448095572869838,2548
+66,SALTA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+18,CORRIENTES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,18,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+82,SANTA FE,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+54,MISIONES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+30,ENTRE RÍOS,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018204723033343768,1158
+10,CATAMARCA,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.0025390385312117824,566
+18,CORRIENTES,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.007414706694620469,713
+38,JUJUY,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.019542521378731442,673
+22,CHACO,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.08425929523291503,976
+62,RÍO NEGRO,R98,Muerte sin asistencia,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014361975991111834,605
+22,CHACO,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+90,TUCUMÁN,K72,"Insuficiencia hepática, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEPATOLOGÍA PEDIÁTRICA,0,0.02394570237343114,2402
+86,SANTIAGO DEL ESTERO,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.018589107402698934,865
+82,SANTA FE,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.014448095572869838,2548
+34,FORMOSA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.031487982086836855,473
+82,SANTA FE,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.014448095572869838,2548
+66,SALTA,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.022394681014429284,1120
+66,SALTA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+54,MISIONES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+70,SAN JUAN,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019149255507998696,880
+90,TUCUMÁN,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+10,CATAMARCA,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.0025390385312117824,566
+10,CATAMARCA,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.0025390385312117824,566
+14,CÓRDOBA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04698249946897175,8186
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,7,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,I49,Otras arritmias cardiacas,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+22,CHACO,Y83,"Cirugía y otros procedimientos quirúrgicos como la causa de reacción anormal del paciente o de complicación posterior, sin mención de incidente en el momento de efectuar el procedimiento",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CIRUGÍA INFANTIL (CIRUGÍA PEDIÁTRICA),1,0.08425929523291503,976
+54,MISIONES,Y83,"Cirugía y otros procedimientos quirúrgicos como la causa de reacción anormal del paciente o de complicación posterior, sin mención de incidente en el momento de efectuar el procedimiento",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CIRUGÍA INFANTIL (CIRUGÍA PEDIÁTRICA),1,0.025173125363767694,953
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+82,SANTA FE,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+26,CHUBUT,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.006540244303279514,956
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+90,TUCUMÁN,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+6,BUENOS AIRES,I67,Otras enfermedades cerebrovasculares,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+66,SALTA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.022394681014429284,1120
+6,BUENOS AIRES,R57,"Choque, no clasificado en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+6,BUENOS AIRES,C92,Leucemia mieloide,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+18,CORRIENTES,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.007414706694620469,713
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,7,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+82,SANTA FE,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+78,SANTA CRUZ,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.010935182407254232,351
+78,SANTA CRUZ,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.010935182407254232,351
+18,CORRIENTES,J44,Otras enfermedades pulmonares obstructivas crónicas,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+30,ENTRE RÍOS,J44,Otras enfermedades pulmonares obstructivas crónicas,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018204723033343768,1158
+6,BUENOS AIRES,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+14,CÓRDOBA,R57,"Choque, no clasificado en otra parte",1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04698249946897175,8186
+74,SAN LUIS,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.015338645418326694,575
+54,MISIONES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+54,MISIONES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+26,CHUBUT,I42,Cardiomiopatía,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.006540244303279514,956
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,8,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+6,BUENOS AIRES,E14,"Diabetes mellitus, no especificada",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,ENDOCRINOLOGÍA INFANTIL,1,0.015900846878413904,9773
+66,SALTA,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.022394681014429284,1120
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04731169370935178,1761
+54,MISIONES,C92,Leucemia mieloide,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,0,0.025173125363767694,953
+18,CORRIENTES,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.007414706694620469,713
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+62,RÍO NEGRO,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014361975991111834,605
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.04731169370935178,1761
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,C92,Leucemia mieloide,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.04731169370935178,1761
+14,CÓRDOBA,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.04698249946897175,8186
+82,SANTA FE,X95,"Agresión con disparo de otras armas de fuego, y las no especificadas",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+62,RÍO NEGRO,N18,Enfermedad renal crónica,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEFROLOGÍA INFANTIL,1,0.014361975991111834,605
+30,ENTRE RÍOS,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018204723033343768,1158
+86,SANTIAGO DEL ESTERO,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018589107402698934,865
+82,SANTA FE,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.014448095572869838,2548
+86,SANTIAGO DEL ESTERO,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018589107402698934,865
+6,BUENOS AIRES,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.015900846878413904,9773
+46,LA RIOJA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.018795734140777474,449
+18,CORRIENTES,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.007414706694620469,713
+34,FORMOSA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.031487982086836855,473
+62,RÍO NEGRO,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014361975991111834,605
+18,CORRIENTES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04731169370935178,1761
+22,CHACO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.08425929523291503,976
+38,JUJUY,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019542521378731442,673
+86,SANTIAGO DEL ESTERO,J44,Otras enfermedades pulmonares obstructivas crónicas,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018589107402698934,865
+6,BUENOS AIRES,C92,Leucemia mieloide,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+30,ENTRE RÍOS,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018204723033343768,1158
+90,TUCUMÁN,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.02394570237343114,2402
+66,SALTA,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+14,CÓRDOBA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04698249946897175,8186
+66,SALTA,A16,"Tuberculosis respiratoria, no confirmada bacteriológica o histológicamente",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+66,SALTA,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+34,FORMOSA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.031487982086836855,473
+82,SANTA FE,E14,"Diabetes mellitus, no especificada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ENDOCRINOLOGÍA INFANTIL,1,0.014448095572869838,2548
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,17,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+70,SAN JUAN,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019149255507998696,880
+86,SANTIAGO DEL ESTERO,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018589107402698934,865
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04731169370935178,1761
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+58,NEUQUÉN,I61,Hemorragia intraencefálica,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.01174674027957242,1287
+6,BUENOS AIRES,R57,"Choque, no clasificado en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+90,TUCUMÁN,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.02394570237343114,2402
+86,SANTIAGO DEL ESTERO,I61,Hemorragia intraencefálica,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.018589107402698934,865
+18,CORRIENTES,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.007414706694620469,713
+74,SAN LUIS,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015338645418326694,575
+22,CHACO,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.08425929523291503,976
+74,SAN LUIS,N18,Enfermedad renal crónica,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEFROLOGÍA INFANTIL,1,0.015338645418326694,575
+86,SANTIAGO DEL ESTERO,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018589107402698934,865
+50,MENDOZA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015431613080728657,2262
+62,RÍO NEGRO,I61,Hemorragia intraencefálica,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.014361975991111834,605
+38,JUJUY,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019542521378731442,673
+82,SANTA FE,Y83,"Cirugía y otros procedimientos quirúrgicos como la causa de reacción anormal del paciente o de complicación posterior, sin mención de incidente en el momento de efectuar el procedimiento",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CIRUGÍA INFANTIL (CIRUGÍA PEDIÁTRICA),1,0.014448095572869838,2548
+6,BUENOS AIRES,I67,Otras enfermedades cerebrovasculares,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.015900846878413904,9773
+82,SANTA FE,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+62,RÍO NEGRO,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.014361975991111834,605
+14,CÓRDOBA,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04698249946897175,8186
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+90,TUCUMÁN,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04731169370935178,1761
+34,FORMOSA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+90,TUCUMÁN,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+22,CHACO,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+6,BUENOS AIRES,I49,Otras arritmias cardiacas,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+14,CÓRDOBA,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04698249946897175,8186
+46,LA RIOJA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.018795734140777474,449
+14,CÓRDOBA,E14,"Diabetes mellitus, no especificada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ENDOCRINOLOGÍA INFANTIL,1,0.04698249946897175,8186
+14,CÓRDOBA,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04698249946897175,8186
+54,MISIONES,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.025173125363767694,953
+82,SANTA FE,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+66,SALTA,I61,Hemorragia intraencefálica,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.022394681014429284,1120
+54,MISIONES,C92,Leucemia mieloide,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,0,0.025173125363767694,953
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.015900846878413904,9773
+54,MISIONES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+14,CÓRDOBA,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04698249946897175,8186
+90,TUCUMÁN,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.02394570237343114,2402
+70,SAN JUAN,R57,"Choque, no clasificado en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.019149255507998696,880
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,13,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+70,SAN JUAN,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.019149255507998696,880
+82,SANTA FE,X95,"Agresión con disparo de otras armas de fuego, y las no especificadas",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+18,CORRIENTES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+6,BUENOS AIRES,I49,Otras arritmias cardiacas,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04731169370935178,1761
+6,BUENOS AIRES,C92,Leucemia mieloide,2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+66,SALTA,K72,"Insuficiencia hepática, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEPATOLOGÍA PEDIÁTRICA,1,0.022394681014429284,1120
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04731169370935178,1761
+50,MENDOZA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015431613080728657,2262
+38,JUJUY,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.019542521378731442,673
+14,CÓRDOBA,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.04698249946897175,8186
+30,ENTRE RÍOS,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.018204723033343768,1158
+18,CORRIENTES,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.007414706694620469,713
+66,SALTA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.022394681014429284,1120
+38,JUJUY,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.019542521378731442,673
+58,NEUQUÉN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.01174674027957242,1287
+6,BUENOS AIRES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,Y20,"Ahorcamiento, estrangulamiento y sofocación, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.04731169370935178,1761
+66,SALTA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+38,JUJUY,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.019542521378731442,673
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,8,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+42,LA PAMPA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014911851264131089,703
+50,MENDOZA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015431613080728657,2262
+74,SAN LUIS,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015338645418326694,575
+6,BUENOS AIRES,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.015900846878413904,9773
+54,MISIONES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,0,0.025173125363767694,953
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,I42,Cardiomiopatía,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.04731169370935178,1761
+14,CÓRDOBA,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04698249946897175,8186
+6,BUENOS AIRES,C92,Leucemia mieloide,1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+30,ENTRE RÍOS,R98,Muerte sin asistencia,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018204723033343768,1158
+90,TUCUMÁN,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+26,CHUBUT,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.006540244303279514,956
+14,CÓRDOBA,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04698249946897175,8186
+54,MISIONES,I42,Cardiomiopatía,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.025173125363767694,953
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+58,NEUQUÉN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.01174674027957242,1287
+6,BUENOS AIRES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+22,CHACO,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+90,TUCUMÁN,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.02394570237343114,2402
+82,SANTA FE,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.014448095572869838,2548
+78,SANTA CRUZ,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.010935182407254232,351
+14,CÓRDOBA,Y20,"Ahorcamiento, estrangulamiento y sofocación, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.04698249946897175,8186
+6,BUENOS AIRES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+10,CATAMARCA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.0025390385312117824,566
+22,CHACO,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,0,0.08425929523291503,976
+38,JUJUY,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.019542521378731442,673
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+46,LA RIOJA,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,0,0.018795734140777474,449
+78,SANTA CRUZ,Y20,"Ahorcamiento, estrangulamiento y sofocación, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.010935182407254232,351
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,C92,Leucemia mieloide,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.04731169370935178,1761
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04731169370935178,1761
+62,RÍO NEGRO,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.014361975991111834,605
+86,SANTIAGO DEL ESTERO,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.018589107402698934,865
+34,FORMOSA,A16,"Tuberculosis respiratoria, no confirmada bacteriológica o histológicamente",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.031487982086836855,473
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,Y24,"Disparo de otras armas de fuego, y las no especificadas, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04731169370935178,1761
+86,SANTIAGO DEL ESTERO,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.018589107402698934,865
+82,SANTA FE,Y20,"Ahorcamiento, estrangulamiento y sofocación, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.014448095572869838,2548
+22,CHACO,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+58,NEUQUÉN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.01174674027957242,1287
+90,TUCUMÁN,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+90,TUCUMÁN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.02394570237343114,2402
+50,MENDOZA,I71,Aneurisma y disección aórticos,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015431613080728657,2262
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",9,desconocido,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+90,TUCUMÁN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.02394570237343114,2402
+34,FORMOSA,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+34,FORMOSA,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+90,TUCUMÁN,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,C92,Leucemia mieloide,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.04731169370935178,1761
+54,MISIONES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,0,0.025173125363767694,953
+54,MISIONES,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.025173125363767694,953
+22,CHACO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.08425929523291503,976
+22,CHACO,A16,"Tuberculosis respiratoria, no confirmada bacteriológica o histológicamente",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+18,CORRIENTES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.007414706694620469,713
+30,ENTRE RÍOS,E14,"Diabetes mellitus, no especificada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ENDOCRINOLOGÍA INFANTIL,1,0.018204723033343768,1158
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+58,NEUQUÉN,I42,Cardiomiopatía,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.01174674027957242,1287
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+18,CORRIENTES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.007414706694620469,713
+30,ENTRE RÍOS,R98,Muerte sin asistencia,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018204723033343768,1158
+90,TUCUMÁN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.02394570237343114,2402
+66,SALTA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.022394681014429284,1120
+6,BUENOS AIRES,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.015900846878413904,9773
+14,CÓRDOBA,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04698249946897175,8186
+86,SANTIAGO DEL ESTERO,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018589107402698934,865
+46,LA RIOJA,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018795734140777474,449
+46,LA RIOJA,J81,Edema pulmonar,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,0,0.018795734140777474,449
+6,BUENOS AIRES,I42,Cardiomiopatía,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+18,CORRIENTES,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.007414706694620469,713
+82,SANTA FE,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+86,SANTIAGO DEL ESTERO,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018589107402698934,865
+70,SAN JUAN,I49,Otras arritmias cardiacas,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.019149255507998696,880
+14,CÓRDOBA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04698249946897175,8186
+66,SALTA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.022394681014429284,1120
+90,TUCUMÁN,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,20,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+18,CORRIENTES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+50,MENDOZA,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015431613080728657,2262
+42,LA PAMPA,V43,"Ocupante de automóvil lesionado por colisión con otro automóvil, camioneta o furgoneta",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.014911851264131089,703
+82,SANTA FE,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,7,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+14,CÓRDOBA,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04698249946897175,8186
+22,CHACO,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+58,NEUQUÉN,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PEDIATRÍA,1,0.01174674027957242,1287
+26,CHUBUT,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.006540244303279514,956
+22,CHACO,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+30,ENTRE RÍOS,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018204723033343768,1158
+34,FORMOSA,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.031487982086836855,473
+18,CORRIENTES,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.007414706694620469,713
+82,SANTA FE,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,15,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,7,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,C92,Leucemia mieloide,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+34,FORMOSA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,7,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.031487982086836855,473
+66,SALTA,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.022394681014429284,1120
+86,SANTIAGO DEL ESTERO,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018589107402698934,865
+82,SANTA FE,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+26,CHUBUT,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.006540244303279514,956
+90,TUCUMÁN,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+66,SALTA,R98,Muerte sin asistencia,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.022394681014429284,1120
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+82,SANTA FE,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+22,CHACO,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+6,BUENOS AIRES,I42,Cardiomiopatía,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+22,CHACO,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.08425929523291503,976
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+50,MENDOZA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015431613080728657,2262
+18,CORRIENTES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+14,CÓRDOBA,R57,"Choque, no clasificado en otra parte",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04698249946897175,8186
+90,TUCUMÁN,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+14,CÓRDOBA,R57,"Choque, no clasificado en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04698249946897175,8186
+90,TUCUMÁN,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+82,SANTA FE,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+62,RÍO NEGRO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014361975991111834,605
+10,CATAMARCA,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.0025390385312117824,566
+10,CATAMARCA,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.0025390385312117824,566
+30,ENTRE RÍOS,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018204723033343768,1158
+22,CHACO,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PEDIATRÍA,1,0.08425929523291503,976
+30,ENTRE RÍOS,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018204723033343768,1158
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+10,CATAMARCA,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.0025390385312117824,566
+22,CHACO,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+54,MISIONES,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.025173125363767694,953
+22,CHACO,K65,Peritonitis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,GASTROENTEROLOGÍA INFANTIL,1,0.08425929523291503,976
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+66,SALTA,R98,Muerte sin asistencia,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.022394681014429284,1120
+82,SANTA FE,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.014448095572869838,2548
+30,ENTRE RÍOS,R98,Muerte sin asistencia,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018204723033343768,1158
+66,SALTA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+90,TUCUMÁN,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+22,CHACO,Y83,"Cirugía y otros procedimientos quirúrgicos como la causa de reacción anormal del paciente o de complicación posterior, sin mención de incidente en el momento de efectuar el procedimiento",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CIRUGÍA INFANTIL (CIRUGÍA PEDIÁTRICA),1,0.08425929523291503,976
+62,RÍO NEGRO,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014361975991111834,605
+34,FORMOSA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.031487982086836855,473
+46,LA RIOJA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.018795734140777474,449
+70,SAN JUAN,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019149255507998696,880
+86,SANTIAGO DEL ESTERO,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.018589107402698934,865
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+18,CORRIENTES,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.007414706694620469,713
+82,SANTA FE,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+6,BUENOS AIRES,Y20,"Ahorcamiento, estrangulamiento y sofocación, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+14,CÓRDOBA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04698249946897175,8186
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+50,MENDOZA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015431613080728657,2262
+90,TUCUMÁN,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.02394570237343114,2402
+70,SAN JUAN,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019149255507998696,880
+22,CHACO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PEDIATRÍA,1,0.08425929523291503,976
+22,CHACO,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+50,MENDOZA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015431613080728657,2262
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,12,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+38,JUJUY,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019542521378731442,673
+10,CATAMARCA,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.0025390385312117824,566
+38,JUJUY,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.019542521378731442,673
+54,MISIONES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,7,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+22,CHACO,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.08425929523291503,976
+54,MISIONES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,8,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04731169370935178,1761
+90,TUCUMÁN,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.02394570237343114,2402
+90,TUCUMÁN,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.02394570237343114,2402
+34,FORMOSA,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+94,"TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.014185822452610488,446
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+30,ENTRE RÍOS,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018204723033343768,1158
+66,SALTA,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+82,SANTA FE,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.014448095572869838,2548
+34,FORMOSA,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+54,MISIONES,Y83,"Cirugía y otros procedimientos quirúrgicos como la causa de reacción anormal del paciente o de complicación posterior, sin mención de incidente en el momento de efectuar el procedimiento",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CIRUGÍA INFANTIL (CIRUGÍA PEDIÁTRICA),1,0.025173125363767694,953
+66,SALTA,B20,"Enfermedad por virus de la inmunodeficiencia humana [VIH], resultante en enfermedades infecciosas y parasitarias",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.022394681014429284,1120
+66,SALTA,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.022394681014429284,1120
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+70,SAN JUAN,R57,"Choque, no clasificado en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.019149255507998696,880
+82,SANTA FE,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+22,CHACO,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,18,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04731169370935178,1761
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+38,JUJUY,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019542521378731442,673
+54,MISIONES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+22,CHACO,I51,Complicaciones y descripciones mal definidas de enfermedad cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.08425929523291503,976
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04731169370935178,1761
+14,CÓRDOBA,R57,"Choque, no clasificado en otra parte",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04698249946897175,8186
+86,SANTIAGO DEL ESTERO,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018589107402698934,865
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+66,SALTA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+82,SANTA FE,J44,Otras enfermedades pulmonares obstructivas crónicas,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+82,SANTA FE,D37,Tumor de comportamiento incierto o desconocido de la cavidad bucal y de los órganos digestivos,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.014448095572869838,2548
+6,BUENOS AIRES,C92,Leucemia mieloide,1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+54,MISIONES,V03,"Peatón lesionado por colisión con automóvil, camioneta o furgoneta",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.025173125363767694,953
+90,TUCUMÁN,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+14,CÓRDOBA,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04698249946897175,8186
+86,SANTIAGO DEL ESTERO,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.018589107402698934,865
+86,SANTIAGO DEL ESTERO,J44,Otras enfermedades pulmonares obstructivas crónicas,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018589107402698934,865
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04731169370935178,1761
+30,ENTRE RÍOS,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018204723033343768,1158
+82,SANTA FE,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.014448095572869838,2548
+46,LA RIOJA,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.018795734140777474,449
+46,LA RIOJA,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018795734140777474,449
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+18,CORRIENTES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+82,SANTA FE,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+50,MENDOZA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015431613080728657,2262
+6,BUENOS AIRES,K92,Otras enfermedades del sistema digestivo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,GASTROENTEROLOGÍA INFANTIL,1,0.015900846878413904,9773
+34,FORMOSA,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+66,SALTA,K72,"Insuficiencia hepática, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEPATOLOGÍA PEDIÁTRICA,1,0.022394681014429284,1120
+34,FORMOSA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.031487982086836855,473
+10,CATAMARCA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.0025390385312117824,566
+70,SAN JUAN,R57,"Choque, no clasificado en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.019149255507998696,880
+50,MENDOZA,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015431613080728657,2262
+38,JUJUY,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.019542521378731442,673
+18,CORRIENTES,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+14,CÓRDOBA,K72,"Insuficiencia hepática, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEPATOLOGÍA PEDIÁTRICA,0,0.04698249946897175,8186
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,I42,Cardiomiopatía,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.04731169370935178,1761
+30,ENTRE RÍOS,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.018204723033343768,1158
+74,SAN LUIS,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.015338645418326694,575
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,9,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+86,SANTIAGO DEL ESTERO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018589107402698934,865
+30,ENTRE RÍOS,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.018204723033343768,1158
+82,SANTA FE,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+82,SANTA FE,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+14,CÓRDOBA,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04698249946897175,8186
+6,BUENOS AIRES,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+14,CÓRDOBA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04698249946897175,8186
+66,SALTA,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.022394681014429284,1120
+82,SANTA FE,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.014448095572869838,2548
+82,SANTA FE,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+54,MISIONES,I61,Hemorragia intraencefálica,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.025173125363767694,953
+6,BUENOS AIRES,Y24,"Disparo de otras armas de fuego, y las no especificadas, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+46,LA RIOJA,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,0,0.018795734140777474,449
+54,MISIONES,V23,"Motociclista lesionado por colisión con automóvil, camioneta o furgoneta",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.025173125363767694,953
+18,CORRIENTES,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.007414706694620469,713
+54,MISIONES,V43,"Ocupante de automóvil lesionado por colisión con otro automóvil, camioneta o furgoneta",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.025173125363767694,953
+62,RÍO NEGRO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014361975991111834,605
+54,MISIONES,X99,Agresión con objeto cortante,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.025173125363767694,953
+18,CORRIENTES,I67,Otras enfermedades cerebrovasculares,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.007414706694620469,713
+66,SALTA,K72,"Insuficiencia hepática, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEPATOLOGÍA PEDIÁTRICA,1,0.022394681014429284,1120
+66,SALTA,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.022394681014429284,1120
+14,CÓRDOBA,I49,Otras arritmias cardiacas,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.04698249946897175,8186
+54,MISIONES,V03,"Peatón lesionado por colisión con automóvil, camioneta o furgoneta",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.025173125363767694,953
+82,SANTA FE,I51,Complicaciones y descripciones mal definidas de enfermedad cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.014448095572869838,2548
+18,CORRIENTES,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PEDIATRÍA,1,0.007414706694620469,713
+30,ENTRE RÍOS,J44,Otras enfermedades pulmonares obstructivas crónicas,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018204723033343768,1158
+6,BUENOS AIRES,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+34,FORMOSA,N17,Insuficiencia renal aguda,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEFROLOGÍA INFANTIL,0,0.031487982086836855,473
+90,TUCUMÁN,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.02394570237343114,2402
+70,SAN JUAN,I61,Hemorragia intraencefálica,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.019149255507998696,880
+82,SANTA FE,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.014448095572869838,2548
+46,LA RIOJA,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018795734140777474,449
+38,JUJUY,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019542521378731442,673
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+54,MISIONES,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.025173125363767694,953
+6,BUENOS AIRES,C92,Leucemia mieloide,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+70,SAN JUAN,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.019149255507998696,880
+38,JUJUY,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.019542521378731442,673
+38,JUJUY,Y83,"Cirugía y otros procedimientos quirúrgicos como la causa de reacción anormal del paciente o de complicación posterior, sin mención de incidente en el momento de efectuar el procedimiento",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CIRUGÍA INFANTIL (CIRUGÍA PEDIÁTRICA),1,0.019542521378731442,673
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,7,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+54,MISIONES,N18,Enfermedad renal crónica,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEFROLOGÍA INFANTIL,1,0.025173125363767694,953
+82,SANTA FE,E14,"Diabetes mellitus, no especificada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ENDOCRINOLOGÍA INFANTIL,1,0.014448095572869838,2548
+90,TUCUMÁN,R57,"Choque, no clasificado en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+26,CHUBUT,X09,"Exposición a humos, fuegos o llamas no especificados",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.006540244303279514,956
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",9,desconocido,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+62,RÍO NEGRO,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014361975991111834,605
+38,JUJUY,V89,"Accidente de vehículo de motor o sin motor, tipo de vehículo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.019542521378731442,673
+34,FORMOSA,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,0,0.031487982086836855,473
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+18,CORRIENTES,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.007414706694620469,713
+82,SANTA FE,Y83,"Cirugía y otros procedimientos quirúrgicos como la causa de reacción anormal del paciente o de complicación posterior, sin mención de incidente en el momento de efectuar el procedimiento",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CIRUGÍA INFANTIL (CIRUGÍA PEDIÁTRICA),1,0.014448095572869838,2548
+54,MISIONES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,16,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+58,NEUQUÉN,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.01174674027957242,1287
+82,SANTA FE,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014448095572869838,2548
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,15,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,Y24,"Disparo de otras armas de fuego, y las no especificadas, de intención no determinada",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+18,CORRIENTES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.007414706694620469,713
+74,SAN LUIS,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.015338645418326694,575
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,I42,Cardiomiopatía,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.04731169370935178,1761
+14,CÓRDOBA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.04698249946897175,8186
+34,FORMOSA,V89,"Accidente de vehículo de motor o sin motor, tipo de vehículo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.031487982086836855,473
+46,LA RIOJA,J81,Edema pulmonar,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,0,0.018795734140777474,449
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+82,SANTA FE,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+82,SANTA FE,X95,"Agresión con disparo de otras armas de fuego, y las no especificadas",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+14,CÓRDOBA,K72,"Insuficiencia hepática, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEPATOLOGÍA PEDIÁTRICA,0,0.04698249946897175,8186
+38,JUJUY,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.019542521378731442,673
+6,BUENOS AIRES,Y20,"Ahorcamiento, estrangulamiento y sofocación, de intención no determinada",2,femenino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,Y20,"Ahorcamiento, estrangulamiento y sofocación, de intención no determinada",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+30,ENTRE RÍOS,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018204723033343768,1158
+38,JUJUY,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.019542521378731442,673
+34,FORMOSA,D43,Tumor de comportamiento incierto o desconocido del encéfalo y del sistema nervioso central,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.031487982086836855,473
+18,CORRIENTES,I61,Hemorragia intraencefálica,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.007414706694620469,713
+90,TUCUMÁN,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+90,TUCUMÁN,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+66,SALTA,A16,"Tuberculosis respiratoria, no confirmada bacteriológica o histológicamente",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+22,CHACO,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.08425929523291503,976
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,Y24,"Disparo de otras armas de fuego, y las no especificadas, de intención no determinada",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+6,BUENOS AIRES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+14,CÓRDOBA,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04698249946897175,8186
+62,RÍO NEGRO,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014361975991111834,605
+14,CÓRDOBA,N18,Enfermedad renal crónica,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEFROLOGÍA INFANTIL,1,0.04698249946897175,8186
+10,CATAMARCA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.0025390385312117824,566
+6,BUENOS AIRES,I42,Cardiomiopatía,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,I60,Hemorragia subaracnoidea,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.04731169370935178,1761
+82,SANTA FE,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.014448095572869838,2548
+62,RÍO NEGRO,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.014361975991111834,605
+54,MISIONES,J44,Otras enfermedades pulmonares obstructivas crónicas,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.025173125363767694,953
+30,ENTRE RÍOS,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.018204723033343768,1158
+82,SANTA FE,X95,"Agresión con disparo de otras armas de fuego, y las no especificadas",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+70,SAN JUAN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.019149255507998696,880
+14,CÓRDOBA,R57,"Choque, no clasificado en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04698249946897175,8186
+34,FORMOSA,V89,"Accidente de vehículo de motor o sin motor, tipo de vehículo no especificado",2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.031487982086836855,473
+6,BUENOS AIRES,K92,Otras enfermedades del sistema digestivo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,GASTROENTEROLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,8,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+90,TUCUMÁN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.02394570237343114,2402
+46,LA RIOJA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.018795734140777474,449
+50,MENDOZA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015431613080728657,2262
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+30,ENTRE RÍOS,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.018204723033343768,1158
+6,BUENOS AIRES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+54,MISIONES,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.025173125363767694,953
+34,FORMOSA,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+82,SANTA FE,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.014448095572869838,2548
+6,BUENOS AIRES,C92,Leucemia mieloide,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+90,TUCUMÁN,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+90,TUCUMÁN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.02394570237343114,2402
+50,MENDOZA,D43,Tumor de comportamiento incierto o desconocido del encéfalo y del sistema nervioso central,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.015431613080728657,2262
+86,SANTIAGO DEL ESTERO,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,0,0.018589107402698934,865
+38,JUJUY,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.019542521378731442,673
+66,SALTA,R98,Muerte sin asistencia,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.022394681014429284,1120
+62,RÍO NEGRO,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014361975991111834,605
+6,BUENOS AIRES,Y24,"Disparo de otras armas de fuego, y las no especificadas, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+90,TUCUMÁN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.02394570237343114,2402
+6,BUENOS AIRES,C92,Leucemia mieloide,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+42,LA PAMPA,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.014911851264131089,703
+54,MISIONES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,0,0.025173125363767694,953
+86,SANTIAGO DEL ESTERO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018589107402698934,865
+58,NEUQUÉN,I42,Cardiomiopatía,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.01174674027957242,1287
+38,JUJUY,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.019542521378731442,673
+6,BUENOS AIRES,I49,Otras arritmias cardiacas,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,C92,Leucemia mieloide,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,HEMATOLOGÍA INFANTIL,1,0.015900846878413904,9773
+54,MISIONES,V23,"Motociclista lesionado por colisión con automóvil, camioneta o furgoneta",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.025173125363767694,953
+70,SAN JUAN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.019149255507998696,880
+30,ENTRE RÍOS,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018204723033343768,1158
+22,CHACO,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.08425929523291503,976
+66,SALTA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.022394681014429284,1120
+54,MISIONES,I42,Cardiomiopatía,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.025173125363767694,953
+6,BUENOS AIRES,Y20,"Ahorcamiento, estrangulamiento y sofocación, de intención no determinada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+66,SALTA,I61,Hemorragia intraencefálica,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.022394681014429284,1120
+58,NEUQUÉN,E14,"Diabetes mellitus, no especificada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ENDOCRINOLOGÍA INFANTIL,1,0.01174674027957242,1287
+14,CÓRDOBA,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.04698249946897175,8186
+74,SAN LUIS,I42,Cardiomiopatía,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015338645418326694,575
+46,LA RIOJA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.018795734140777474,449
+50,MENDOZA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,5,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015431613080728657,2262
+14,CÓRDOBA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.04698249946897175,8186
+86,SANTIAGO DEL ESTERO,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,0,0.018589107402698934,865
+38,JUJUY,K92,Otras enfermedades del sistema digestivo,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,GASTROENTEROLOGÍA INFANTIL,1,0.019542521378731442,673
+90,TUCUMÁN,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.02394570237343114,2402
+14,CÓRDOBA,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.04698249946897175,8186
+66,SALTA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.022394681014429284,1120
+78,SANTA CRUZ,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.010935182407254232,351
+18,CORRIENTES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+22,CHACO,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.08425929523291503,976
+26,CHUBUT,X09,"Exposición a humos, fuegos o llamas no especificados",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.006540244303279514,956
+6,BUENOS AIRES,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+6,BUENOS AIRES,E14,"Diabetes mellitus, no especificada",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ENDOCRINOLOGÍA INFANTIL,1,0.015900846878413904,9773
+42,LA PAMPA,V43,"Ocupante de automóvil lesionado por colisión con otro automóvil, camioneta o furgoneta",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.014911851264131089,703
+10,CATAMARCA,N18,Enfermedad renal crónica,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEFROLOGÍA INFANTIL,0,0.0025390385312117824,566
+30,ENTRE RÍOS,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.018204723033343768,1158
+6,BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",2,femenino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015900846878413904,9773
+14,CÓRDOBA,Y20,"Ahorcamiento, estrangulamiento y sofocación, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.04698249946897175,8186
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,Y34,"Evento no especificado, de intención no determinada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04731169370935178,1761
+86,SANTIAGO DEL ESTERO,A41,Otras Sepsis,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,0,0.018589107402698934,865
+22,CHACO,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.08425929523291503,976
+18,CORRIENTES,J98,Otros trastornos respiratorios,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.007414706694620469,713
+30,ENTRE RÍOS,C71,Tumor maligno del encéfalo,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,0,0.018204723033343768,1158
+50,MENDOZA,I61,Hemorragia intraencefálica,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUROLOGÍA INFANTIL,1,0.015431613080728657,2262
+6,BUENOS AIRES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+82,SANTA FE,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.04731169370935178,1761
+66,SALTA,A16,"Tuberculosis respiratoria, no confirmada bacteriológica o histológicamente",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.022394681014429284,1120
+22,CHACO,E14,"Diabetes mellitus, no especificada",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ENDOCRINOLOGÍA INFANTIL,0,0.08425929523291503,976
+70,SAN JUAN,A41,Otras Sepsis,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,INFECTOLOGÍA INFANTIL,1,0.019149255507998696,880
+34,FORMOSA,I50,Insuficiencia cardíaca,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.031487982086836855,473
+66,SALTA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.022394681014429284,1120
+54,MISIONES,V43,"Ocupante de automóvil lesionado por colisión con otro automóvil, camioneta o furgoneta",2,femenino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,TRAUMATOLOGÍA INFANTIL,0,0.025173125363767694,953
+82,SANTA FE,X95,"Agresión con disparo de otras armas de fuego, y las no especificadas",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.014448095572869838,2548
+6,BUENOS AIRES,J18,"Neumonía, organismo no especificado",1,masculino,01.De a 0  a 14 anios,14,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.015900846878413904,9773
+90,TUCUMÁN,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.02394570237343114,2402
+6,BUENOS AIRES,I71,Aneurisma y disección aórticos,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+50,MENDOZA,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.015431613080728657,2262
+90,TUCUMÁN,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+90,TUCUMÁN,J96,"Insuficiencia respiratoria, no clasificada en otra parte",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.02394570237343114,2402
+86,SANTIAGO DEL ESTERO,R99,Otras causas mal definidas y las no especificadas de mortalidad,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PEDIATRÍA,1,0.018589107402698934,865
+6,BUENOS AIRES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+34,FORMOSA,R99,Otras causas mal definidas y las no especificadas de mortalidad,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.031487982086836855,473
+18,CORRIENTES,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PEDIATRÍA,1,0.007414706694620469,713
+82,SANTA FE,C71,Tumor maligno del encéfalo,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.014448095572869838,2548
+6,BUENOS AIRES,Y20,"Ahorcamiento, estrangulamiento y sofocación, de intención no determinada",2,femenino,01.De a 0  a 14 anios,4,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.015900846878413904,9773
+90,TUCUMÁN,X59,Exposición a factores no especificados,1,masculino,01.De a 0  a 14 anios,6,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+14,CÓRDOBA,I50,Insuficiencia cardíaca,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.04698249946897175,8186
+30,ENTRE RÍOS,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.018204723033343768,1158
+10,CATAMARCA,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.0025390385312117824,566
+50,MENDOZA,N18,Enfermedad renal crónica,1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEFROLOGÍA INFANTIL,1,0.015431613080728657,2262
+2,CIUDAD AUTÓNOMA DE BUENOS AIRES,J98,Otros trastornos respiratorios,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.04731169370935178,1761
+86,SANTIAGO DEL ESTERO,J96,"Insuficiencia respiratoria, no clasificada en otra parte",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.018589107402698934,865
+18,CORRIENTES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,1,0.007414706694620469,713
+6,BUENOS AIRES,I49,Otras arritmias cardiacas,1,masculino,01.De a 0  a 14 anios,2,01,De a 0  a 14 anios,CARDIOLOGÍA INFANTIL,1,0.015900846878413904,9773
+90,TUCUMÁN,X59,Exposición a factores no especificados,2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PEDIATRÍA,1,0.02394570237343114,2402
+26,CHUBUT,J18,"Neumonía, organismo no especificado",2,femenino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,NEUMONOLOGÍA INFANTIL,1,0.006540244303279514,956
+34,FORMOSA,D43,Tumor de comportamiento incierto o desconocido del encéfalo y del sistema nervioso central,2,femenino,01.De a 0  a 14 anios,3,01,De a 0  a 14 anios,ONCOLOGÍA INFANTIL,1,0.031487982086836855,473
+54,MISIONES,X70,"Lesión autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocación",1,masculino,01.De a 0  a 14 anios,1,01,De a 0  a 14 anios,PSIQUIATRÍA INFANTO JUVENIL,0,0.025173125363767694,953
